@@ -1,0 +1,21 @@
+# Ignore Eclipse metadata
+.metadata/
+
+# Ignore compiled class files
+*.class
+
+# Ignore Eclipse project settings
+*.classpath
+*.project
+*.settings/
+
+# Ignore target and bin directories (common for Java)
+bin/
+target/
+
+# Ignore IntelliJ files if ever used
+.idea/
+
+# Ignore OS or IDE artifacts
+.DS_Store
+Thumbs.db

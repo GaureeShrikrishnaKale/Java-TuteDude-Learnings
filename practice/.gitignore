@@ -1,0 +1,36 @@
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# Build output directory
+bin/
+target/
+
+# Maven or Gradle build folders
+.mvn/
+.gradle/
+build/
+
+# Compiled bytecode
+*.class
+
+# Logs
+*.log
+
+# IDE configurations (if any)
+*.iml
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup/Temp files
+*.swp
+*.bak
+*.tmp
+
+# VS Code settings (if sometimes using VSCode too)
+.vscode/
